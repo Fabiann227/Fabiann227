@@ -8,8 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXo3OGFpamN2bGJ3cG9iejdjenprYXI2M2hxZzVpb3dyNHgyMzVhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
-
 ###
 
 <div align="center">
@@ -21,11 +19,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="45" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="45" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="45" alt="apachekafka logo"  />
 </div>
 
 ###
